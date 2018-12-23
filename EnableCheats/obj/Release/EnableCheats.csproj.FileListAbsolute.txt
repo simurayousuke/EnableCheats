@@ -1,0 +1,6 @@
+C:\Users\Administrator\Pictures\星露谷\Mod\EnableCheats\EnableCheats\bin\Release\EnableCheats.dll
+C:\Users\Administrator\Pictures\星露谷\Mod\EnableCheats\EnableCheats\bin\Release\EnableCheats.pdb
+C:\Users\Administrator\Pictures\星露谷\Mod\EnableCheats\EnableCheats\obj\Release\EnableCheats.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Pictures\星露谷\Mod\EnableCheats\EnableCheats\obj\Release\EnableCheats.dll
+C:\Users\Administrator\Pictures\星露谷\Mod\EnableCheats\EnableCheats\obj\Release\EnableCheats.pdb
+C:\Users\Administrator\Pictures\星露谷\Mod\EnableCheats\EnableCheats\obj\Release\EnableCheats.csprojAssemblyReference.cache

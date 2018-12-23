@@ -1,0 +1,10 @@
+{
+  "StartupInfoEnabled": "作弊模式已 开启, 在控制台输入 cheats 来开关作弊模式",
+  "StartupInfoDisabled": "作弊模式已 关闭, 在控制台输入 cheats 来开关作弊模式",
+  "ToggleEnabled": "作弊模式已 开启",
+  "ToggleDisabled": "作弊模式已 关闭",
+  "IlegalArgument": "参数不合法！输入 cheats on/off 来 开/关作弊模式 或者输入 cheats 来切换作弊模式",
+  "ConsoleCommandDescription": "切换作弊模式",
+  "NotIngameException": "切换失败, 请在游戏载入后再试",
+  "UnknownException": "切换失败, 未知错误"
+}

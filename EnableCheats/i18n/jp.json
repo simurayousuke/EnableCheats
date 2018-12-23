@@ -1,0 +1,10 @@
+{
+  "StartupInfoEnabled": "チートモードは只今　オン　になっております。 コンソールに cheats を入力してチートモードをスイッチすることができます",
+  "StartupInfoDisabled": "チートモードは只今　オフ　になっております。 コンソールに cheats を入力してチートモードをスイッチすることができます",
+  "ToggleEnabled": "チートモードは只今　オン　になっております",
+  "ToggleDisabled": "チートモードは只今　オフ　になっております",
+  "IlegalArgument": "パラメ—タ—が間違っています。cheats on/off 又は cheats だけ を入力してチートモードをスイッチすることができます",
+  "ConsoleCommandDescription": "チートモードをスイッチする",
+  "NotIngameException": "失敗しました。 ゲームの読み込みが終わった後もう一度試してください",
+  "UnknownException": "未知な原因で失敗しました"
+}

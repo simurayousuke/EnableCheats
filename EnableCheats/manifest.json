@@ -1,0 +1,10 @@
+{
+  "Name": "EnableCheats",
+  "Author": "Zhuang",
+  "Version": "1.0.0",
+  "Description": "To enable the cheats of the mod and say goodbye to NICE TRY.",
+  "UniqueID": "Zhuang.EnableCheats",
+  "EntryDll": "EnableCheats.dll",
+  "MinimumApiVersion": "2.9",
+  "UpdateKeys": []
+}

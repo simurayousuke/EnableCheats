@@ -1,0 +1,10 @@
+{
+  "StartupInfoEnabled": "The cheat mode is enabled , you can type cheats into the console to toggle cheat mode.",
+  "StartupInfoDisabled": "The cheat mode is disabled , you can type cheats into the console to toggle cheat mode.",
+  "ToggleEnabled": "The cheat mode is now enabled.",
+  "ToggleDisabled": "The cheat mode is now disabled.",
+  "IlegalArgument": "Ilegal argument. Use cheats on/off to switch the cheat mode or use cheats to toggle.",
+  "ConsoleCommandDescription": "Toggle cheat mode",
+  "NotIngameException": "Toggle failed, please do again when the game is already loaded.",
+  "UnknownException" :"Toggle failed, unknown exception."
+}
